@@ -1,0 +1,5 @@
+name<-c("Ashish","Shikha","Harish","Gautam","Kiran")
+marks<-c(52,63,95,87,48)
+log_operation<-c(TRUE,FALSE,TRUE,TRUE)
+lst<-list(name,marks,log_operation)
+print(lst)
